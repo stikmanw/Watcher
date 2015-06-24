@@ -1,5 +1,5 @@
 {
-    "name": "stikmanw/file-watcher",
+    "name": "stikmanw/dir-watcher",
     "type": "libarary",
     "description": "File system watcher allowing for observeable handlers when a directory changes or content of the directory changes.",
     "require": {
