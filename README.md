@@ -9,7 +9,7 @@ Requirements
 
 Description
 -----------
-You used the file FileWatcher like you would use typical event emitter. The main advantage to this class is it does not require installing any additional libraries and can simply be installed via composer and used immidiately. You can attach multiple listeners to the 3 main events: 
+You used the file FileWatcher like you would use typical event listener. The main advantage to this class is it does not require installing any additional libraries and can simply be installed via composer and used immidiately. You can attach multiple listeners to the 3 main events: 
 
 * __CREATE__ - File has been created
 * __MODIFIED__ - File has been changed (currently uses a md5 hash to identify change)
