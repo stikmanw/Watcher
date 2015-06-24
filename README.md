@@ -3,9 +3,9 @@ File system watcher allowing for observeable handlers when a directory changes o
 
 Requirements
 ------------
-PHP 5.4 >= 
-Linux Files System / Mac OSX tested 
-Windows (untested)
+* PHP 5.4 >= 
+* Linux Files System / Mac OSX tested 
+* Windows (untested)
 
 Description
 -----------
