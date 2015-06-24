@@ -100,7 +100,7 @@ class FileWatcher
 
         $this->directory = $directory;
         $this->pattern = $pattern;
-        $this->setGlobOptions(GLOB_NOSORT | GLOB_BRACE);
+        $this->setGlobOptions(GLOB_BRACE);
         $this->setInterval($interval);
     }
 
